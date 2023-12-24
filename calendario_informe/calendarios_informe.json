@@ -1,0 +1,227 @@
+ [
+    
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1698448764615000\"",
+     "id": "4qd23lv8m3fnpbli68s4fg50ps@group.calendar.google.com",
+     "summary": "Lizbeth",
+     "timeZone": "America/Santiago",
+     "colorId": "14",
+     "backgroundColor": "#9fe1e7",
+     "foregroundColor": "#000000",
+     "selected": true,
+     "accessRole": "owner",
+     "defaultReminders": [],
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    },
+ 
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1699394497292000\"",
+     "id": "56kejhld4hjqmgba20bs0ktra4@group.calendar.google.com",
+     "summary": "Hotel",
+     "timeZone": "America/Santiago",
+     "colorId": "24",
+     "backgroundColor": "#a47ae2",
+     "foregroundColor": "#000000",
+     "selected": true,
+     "accessRole": "owner",
+     "defaultReminders": [
+      {
+       "method": "popup",
+       "minutes": 1
+      }
+     ],
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    },
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1699394500182000\"",
+     "id": "lh5mmd8nmg0a9mqtk67tdjalls@group.calendar.google.com",
+     "summary": "Programar",
+     "timeZone": "America/Santiago",
+     "colorId": "8",
+     "backgroundColor": "#16a765",
+     "foregroundColor": "#000000",
+     "selected": true,
+     "accessRole": "owner",
+     "defaultReminders": [],
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    },
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1699394503130000\"",
+     "id": "d81ejfdudq1sq3ue981u5j4iq0@group.calendar.google.com",
+     "summary": "Mama",
+     "timeZone": "America/Santiago",
+     "colorId": "9",
+     "backgroundColor": "#7bd148",
+     "foregroundColor": "#000000",
+     "selected": true,
+     "accessRole": "owner",
+     "defaultReminders": [],
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    },
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1699394504637000\"",
+     "id": "glamk1m3h330unjsrad32fgfk4@group.calendar.google.com",
+     "summary": "emprendimiento",
+     "timeZone": "America/Santiago",
+     "colorId": "10",
+     "backgroundColor": "#b3dc6c",
+     "foregroundColor": "#000000",
+     "selected": true,
+     "accessRole": "owner",
+     "defaultReminders": [],
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    },
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1699394513467000\"",
+     "id": "0boh079k48krlbv6o5u80rir30@group.calendar.google.com",
+     "summary": "IACC",
+     "timeZone": "America/Santiago",
+     "colorId": "7",
+     "backgroundColor": "#42d692",
+     "foregroundColor": "#000000",
+     "selected": true,
+     "accessRole": "owner",
+     "defaultReminders": [],
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    },
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1699394600220000\"",
+     "id": "bgb5sp11lfr0f4jhjq5vek92ec@group.calendar.google.com",
+     "summary": "Fitness",
+     "timeZone": "America/Santiago",
+     "colorId": "11",
+     "backgroundColor": "#fbe983",
+     "foregroundColor": "#000000",
+     "selected": true,
+     "accessRole": "owner",
+     "defaultReminders": [
+      {
+       "method": "popup",
+       "minutes": 1
+      }
+     ],
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    },
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1699772887473000\"",
+     "id": "5lj365qfq9cbr68flodg63ev2o@group.calendar.google.com",
+     "summary": "Brik",
+     "description": "trabajo ",
+     "timeZone": "America/Santiago",
+     "colorId": "16",
+     "backgroundColor": "#4986e7",
+     "foregroundColor": "#000000",
+     "selected": true,
+     "accessRole": "owner",
+     "defaultReminders": [],
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    },
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1699982166367000\"",
+     "id": "fmicheam@gmail.com",
+     "summary": "fmicheam@gmail.com",
+     "timeZone": "America/Santiago",
+     "colorId": "6",
+     "backgroundColor": "#ffad46",
+     "foregroundColor": "#000000",
+     "selected": true,
+     "accessRole": "owner",
+     "defaultReminders": [
+      {
+       "method": "popup",
+       "minutes": 1
+      }
+     ],
+     "notificationSettings": {
+      "notifications": [
+       {
+        "type": "eventCreation",
+        "method": "email"
+       },
+       {
+        "type": "eventChange",
+        "method": "email"
+       },
+       {
+        "type": "eventCancellation",
+        "method": "email"
+       },
+       {
+        "type": "eventResponse",
+        "method": "email"
+       }
+      ]
+     },
+     "primary": true,
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    },
+    
+    {
+     "kind": "calendar#calendarListEntry",
+     "etag": "\"1701178225411000\"",
+     "id": "family11062835720563094361@group.calendar.google.com",
+     "summary": "Familia",
+     "timeZone": "UTC",
+     "summaryOverride": "Familia",
+     "colorId": "18",
+     "backgroundColor": "#b99aff",
+     "foregroundColor": "#000000",
+     "accessRole": "writer",
+     "defaultReminders": [
+      {
+       "method": "popup",
+       "minutes": 1
+      }
+     ],
+     "conferenceProperties": {
+      "allowedConferenceSolutionTypes": [
+       "hangoutsMeet"
+      ]
+     }
+    }
+   ]
