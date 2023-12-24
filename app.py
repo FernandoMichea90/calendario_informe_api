@@ -1,7 +1,5 @@
 from flask import Flask, jsonify
 from flasgger import Swagger
-# from calendario_informe.main  import Login as login_calendario
-
 
 app = Flask(__name__)
 swagger = Swagger(app)
@@ -24,4 +22,7 @@ def hello_world():
     """
     
      return 'Hello, World!'
+
+if __name__ == '__main__':
+    app.run(debug=True)
 
