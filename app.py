@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, request
 from flasgger import Swagger
 from calendario_informe.main import Login as login_calendario
-from calendario_informe.main import obtener_calendarios, informe_por_fecha
+from calendario_informe.main import obtener_calendarios, informe_por_fecha, obtener_compras
 from datetime import datetime
 from datetime import datetime
 
@@ -48,6 +48,25 @@ def login():
     
     return login_calendario()
 
+# login sii
+@app.route('/login_sii')
+def iniciar_sesion():
+    """
+    Ejemplo de endpoint que saluda al usuario.
+    ---
+    tags:
+      - Saludo
+    responses:
+      200:
+        description: Saludo exitoso
+        schema:
+          properties:
+            message:
+              type: string
+              description: Saludo al usuario
+    """
+    
+    return obtener_compras()
 # obtener calendarios
 @app.route('/calendarios')
 def calendarios():

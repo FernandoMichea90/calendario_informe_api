@@ -4,7 +4,9 @@
 /calendario_informe/token_dev.json 
 /calendario_informe/credentials_dev.json
 
-   
+
+*.pem
+*.pyc 
 
    
 
